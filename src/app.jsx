@@ -1,7 +1,9 @@
+import { Dashboard } from './components'
+
 const App = () => {
   return (
     <>
-      <h1>Boilerplace + React</h1>
+      <Dashboard />
     </>
   )
 }
